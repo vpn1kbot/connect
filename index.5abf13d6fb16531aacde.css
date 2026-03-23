@@ -35,7 +35,7 @@
         .container .button {
             margin-top: 20px;
             padding: 12px 24px;
-            background-color: #ff4d4d; /* красный цвет, как эмодзи 🤬 */
+            background-color: #4d8bff;
             color: white;
             border: none;
             border-radius: 8px;
@@ -48,5 +48,5 @@
         }
 
         .container .button:hover {
-            background-color: #ff1a1a;
+            background-color: #4db8ff
         }
